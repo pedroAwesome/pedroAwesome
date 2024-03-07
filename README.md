@@ -9,7 +9,7 @@
 
 *I like cats.*
 
-- Hobbies :
+-- Hobbies :
 
 * Coding (duh)
 * Reading
@@ -17,7 +17,7 @@
 * Games
 * Anime
 
-- Learning :
+-- Learning :
 
 * Python and JavaScript
 * Interested in C#
